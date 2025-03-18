@@ -3,3 +3,7 @@
     gap: 20px;
     align-items: center;
 }
+
+.timelines h2 {
+    cursor: pointer;
+}
